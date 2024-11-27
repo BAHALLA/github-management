@@ -1,6 +1,6 @@
 repositories = {
   "scribe-blog-api" = {
     name        = "scribe-blog-api"
-    description = "Lfqih blog backend, golang apis"
+    description = "calm scribe blog backend, golang apis"
   }
 }
